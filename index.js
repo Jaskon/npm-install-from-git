@@ -1,1 +1,1 @@
-export const 'String from library';
+export default const 'String from library';
