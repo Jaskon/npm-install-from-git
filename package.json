@@ -1,0 +1,19 @@
+{
+  "name": "npm-install-from-git",
+  "version": "1.0.0",
+  "description": "Testing installing npm package from git repository directly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaskon/npm-install-from-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaskon/npm-install-from-git/issues"
+  },
+  "homepage": "https://github.com/Jaskon/npm-install-from-git#readme"
+}
